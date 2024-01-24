@@ -1,0 +1,24 @@
+{
+    "client": {
+        "token": "MTE5OTM5MzE1ODU1NjAyNDg5Mw.GamDN8.4KlaBfYdtAk7T4PTNjNv3A-Jq6olWc9hj6iKoc", 
+        "embed": "#00ff00",
+        "foto": "https://cdn.discordapp.com/attachments/868147126943760454/1199473535819710525/image.png?ex=65c2abc8&is=65b036c8&hm=039353563efc529699bfe43d1a531d00c24199ad421b2fa035950ad47ab1738c&",
+        "banner": "https://cdn.discordapp.com/attachments/868147126943760454/1199473289710551040/image.png?ex=65c2ab8d&is=65b0368d&hm=36d07f8fdfd0241b2fe69d43d85eb2d6735e1940a96927559ff8ed1bf6a87314&",
+        "title": "Created by dev.curs3d",
+        "title2": "Curs3d",
+        "canaldevoz": "1199475891894485045",
+        "channel_bugs": "1199477705331196105",
+        "owner_id": "361605138571329538"
+    },
+    "sales": {
+        "categoria_carrinho": "1199475892297158769", 
+        "logs_compras": "1199475891894485050",
+        "cargo_cliente": "1199475890892066818",
+        "cargo_aprovar": "1199475890892066819",
+        "banco": {
+            "qrcode": "seu QRCODE pode ser em imagem ou em codigo", 
+            "ChaveAleatória": "sua chave aleatoria pix",
+            "tipochave": "Aleatória"
+        }
+    }
+}
